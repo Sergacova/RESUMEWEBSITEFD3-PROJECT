@@ -9,10 +9,7 @@ export default function About() {
             <strong>ABOUT ME</strong>
           </h6>
           <p className="grey-text">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim
-            minima quod molestias numquam, cumque eveniet delectus dolore
-            laborum molestiae quis possimus eos dignissimos cupiditate ipsam
-            sunt doloremque commodi adipisci quasi?
+            welcome 
           </p>
         </div>
         <div className="card-action">
