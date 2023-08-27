@@ -31,7 +31,7 @@ export default function Experiences() {
             </div>
           </div>
           <div className="row mt-top">
-            <div className="col xl6 l6 m6 s12">
+            <div className="col x18 l8 m6 s12">
               <p className="teal year_exp white-text">
                 Jan
                 <strong>2020</strong> - Mar
