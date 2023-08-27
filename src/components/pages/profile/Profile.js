@@ -1,7 +1,6 @@
 import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
-import ImgProfile from '../../../images/person1.jpg';
-
+import ImgProfile from './src/components/images';
 export default function Profile() {
 	return (
 		<div>
