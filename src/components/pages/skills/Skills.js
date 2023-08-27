@@ -9,7 +9,7 @@ export default function Skills() {
             <strong>PROFESSIONAL SKILLS</strong>
           </h6>
           <div className="row mt-top">
-            <div className="col s6">
+            <div className="col xl6 l6 m6 s12">
               <p>HTML</p>
               <div className="progress grey lighten-1">
                 <div
@@ -18,7 +18,7 @@ export default function Skills() {
                 ></div>
               </div>
             </div>
-            <div className="col s6">
+            <div className="col xl6 l6 m6 s12">
               <p>CSS</p>
               <div className="progress grey lighten-1">
                 <div
