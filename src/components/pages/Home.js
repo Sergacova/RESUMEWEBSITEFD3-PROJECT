@@ -14,10 +14,10 @@ export default class Home extends Component {
 				<Navbar />
 				<div className='container'>
 					<div className='row'>
-						<div className='col s12 m3'>
+						<div className='col xl6 l6 m6 s12'>
 							<Profile />
 						</div>
-						<div className='col s12 m9'>
+						<div className='col xl6 l6 m6 s12'>
 							<About />
 							<Skills />
 							<Experiences />
